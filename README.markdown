@@ -2,6 +2,8 @@
 
 A simple and intuitive web application built with JavaScript, HTML, and CSS to display current weather information for any city using the OpenWeatherMap API.
 
+![alt text](https://github.com/vidushankalj/Js-Weather-App/blob/main/weather-app.png)
+
 ## Table of Contents
 - [Features](#features)
 - [Demo](#demo)
